@@ -1,0 +1,122 @@
+<models>
+  <model type="50-117" mtype="A EPI" cost="104.895004">S</model>
+  <model type="50-39" mtype="A EPI" cost="37.4625">S</model>
+  <model type="50-39" mtype="A" cost="37.4625">S</model>
+  <model type="50-39" mtype="B" cost="83.916">S</model>
+  <model type="50-39" mtype="B EPI" cost="83.916">S</model>
+  <model type="50-39" mtype="A VAC" cost="37.4625">S</model>
+  <model type="50-52" mtype="A" cost="37.4625">S</model>
+  <model type="50-52" mtype="A EPI" cost="37.4625">S</model>
+  <model type="50-52" mtype="B" cost="76.4235">S</model>
+  <model type="50-52" mtype="A VAC" cost="37.4625">S</model>
+  <model type="50-52" mtype="A VAC EPI" cost="53.946">S</model>
+  <model type="50-86" mtype="A" cost="44.955">S</model>
+  <model type="50-86" mtype="A EPI" cost="44.955">S</model>
+  <model type="50-86" mtype="B" cost="89.91">S</model>
+  <model type="50-86" mtype="B EPI" cost="89.91">S</model>
+  <model type="50-86" mtype="A VAC" cost="44.955">S</model>
+  <model type="50-86" mtype="A VAC EPI" cost="44.955">S</model>
+  <model type="76-35" mtype="A" cost="104.895004">S</model>
+  <model type="76-35" mtype="A EPI" cost="104.895004">S</model>
+  <model type="76-35" mtype="B" cost="149.85">S</model>
+  <model type="76-35" mtype="B EPI" cost="149.85">S</model>
+  <model type="76-35" mtype="A VAC" cost="64.2357">S</model>
+  <model type="76-85" mtype="A" cost="104.895004">S</model>
+  <model type="76-85" mtype="A EPI" cost="104.895004">S</model>
+  <model type="76-85" mtype="A VAC" cost="104.895004">S</model>
+  <model type="76-149" mtype="A" cost="149.85">S</model>
+  <model type="76-149" mtype="A EPI" cost="149.85">S</model>
+  <model type="76-149" mtype="D EPI" cost="224.775009">S</model>
+  <model type="76-149" mtype="A VAC" cost="149.85">S</model>
+  <model type="130-39" mtype="A" cost="95.0049">S</model>
+  <model type="130-39" mtype="A EPI" cost="95.0049">S</model>
+  <model type="130-39" mtype="A VAC" cost="95.0049">S</model>
+  <model type="130-39" mtype="A VAC EPI" cost="95.0049">S</model>
+  <model type="130-39" mtype="B EPI" cost="110.889">S</model>
+  <model type="130-60" mtype="A" cost="97.402504">S</model>
+  <model type="130-60" mtype="A EPI" cost="97.402504">S</model>
+  <model type="130-60" mtype="B" cost="127.372505">S</model>
+  <model type="130-60" mtype="A VAC" cost="97.402504">S</model>
+  <model type="130-60" mtype="A VAC EPI" cost="97.402504">S</model>
+  <model type="130-81" mtype="B" cost="112.387505">S</model>
+  <model type="130-81" mtype="B EPI" cost="112.387505">S</model>
+  <model type="130-102" mtype="A" cost="127.372505">S</model>
+  <model type="130-102" mtype="A EPI" cost="127.372505">S</model>
+  <model type="130-123" mtype="A" cost="142.3575">S</model>
+  <model type="130-123" mtype="B" cost="202.2975">S</model>
+  <model type="180-44" mtype="B" cost="89.91">S</model>
+  <model type="180-44" mtype="B EPI" cost="89.91">S</model>
+  <model type="180-44" mtype="A" cost="74.925">S</model>
+  <model type="180-44" mtype="A EPI" cost="74.925">S</model>
+  <model type="180-44" mtype="A VAC" cost="74.925">S</model>
+  <model type="180-69" mtype="A" cost="97.402504">S</model>
+  <model type="180-69" mtype="A EPI" cost="97.402504">S</model>
+  <model type="180-69" mtype="A VAC" cost="97.402504">S</model>
+  <model type="180-69" mtype="A VAC EPI" cost="97.402504">S</model>
+  <model type="180-69" mtype="B" cost="118.3815">S</model>
+  <model type="180-69" mtype="B EPI" cost="118.3815">S</model>
+  <model type="240-43" mtype="A" cost="134.865">S</model>
+  <model type="240-43" mtype="A VAC" cost="134.865">S</model>
+  <model type="240-43" mtype="A VAC EPI" cost="134.865">S</model>
+  <model type="240-43" mtype="B" cost="194.805008">S</model>
+  <model type="240-63" mtype="A EPI" cost="144.855">S</model>
+  <model type="240-83" mtype="A VAC" cost="155.844">S</model>
+  <model type="240-83" mtype="B" cost="209.790009">S</model>
+  <model type="240-83" mtype="B EPI" cost="209.790009">S</model>
+  <model type="220" mtype="A" cost="251.748">BLMFS3</model>
+  <model type="79" mtype="A" cost="56.943">BLMUC</model>
+  <model type="79" mtype="A 2D" cost="62.937">BLMUC</model>
+  <model type="95" mtype="A,B HF" cost="62.937">BLMUC</model>
+  <model type="95" mtype="A VAC" cost="62.937">BLMUC</model>
+  <model type="111" mtype="A" cost="68.931">BLMUC</model>
+  <model type="111" mtype="A HF" cost="68.931">BLMUC</model>
+  <model type="111" mtype="A HF VAC" cost="68.931">BLMUC</model>
+  <model type="143" mtype="A HF" cost="74.925">BLMUC</model>
+  <model type="92" mtype="A" cost="47.952">BLMC</model>
+  <model type="92" mtype="A HF" cost="47.952">BLMC</model>
+  <model type="92" mtype="A VAC" cost="47.952">BLMC</model>
+  <model type="142" mtype="A" cost="53.946">BLMC</model>
+  <model type="142" mtype="A VAC" cost="53.946">BLMC</model>
+  <model type="142" mtype="A,B HF" cost="53.946">BLMC</model>
+  <model type="192" mtype="A" cost="56.1993027">BLMC</model>
+  <model type="192" mtype="A HF" cost="56.1993027">BLMC</model>
+  <model type="192" mtype="A VAC" cost="56.1993027">BLMC</model>
+  <model type="267" mtype="A" cost="71.1842957">BLMC</model>
+  <model type="267" mtype="A,B HF" cost="71.1842957">BLMC</model>
+  <model type="142" mtype="A" cost="74.925">BLM</model>
+  <model type="142" mtype="A,B HF" cost="74.925">BLM</model>
+  <model type="203" mtype="A" cost="67.4325">BLM</model>
+  <model type="203" mtype="A,B HF" cost="67.4325">BLM</model>
+  <model type="203" mtype="A,B VAC" cost="67.4325">BLM</model>
+  <model type="264" mtype="A,B HF" cost="77.922">BLM</model>
+  <model type="325" mtype="A,B HF" cost="89.6103058">BLM</model>
+  <model type="386" mtype="A,B HF" cost="101.898">BLM</model>
+  <model type="386" mtype="A" cost="101.898">BLM</model>
+  <model type="142" mtype="B" cost="89.91">BLMH</model>
+  <model type="142" mtype="A HF" cost="110.889">BLMH</model>
+  <model type="142" mtype="A HF VAC" cost="110.889">BLMH</model>
+  <model type="202" mtype="A" cost="77.1783">BLMH</model>
+  <model type="202" mtype="A,B HF" cost="125.874">BLMH</model>
+  <model type="262" mtype="A,B" cost="148.3515">BLMH</model>
+  <model type="262" mtype="A,B HF" cost="169.3305">BLMH</model>
+  <model type="262" mtype="A,B VAC" cost="169.3305">BLMH</model>
+  <model type="322" mtype="A HF" cost="178.3215">BLMH</model>
+  <model type="322" mtype="A" cost="95.904">BLMH</model>
+  <model type="322" mtype="A V ES" cost="178.3215">BLMH</model>
+  <model type="382" mtype="A" cost="125.874">BLMH</model>
+  <model type="382" mtype="A,B HF" cost="187.3125">BLMH</model>
+  <model type="81" mtype="A" cost="71.928">BLMFS</model>
+  <model type="142" mtype="A" cost="89.91">BLMFS</model>
+  <model type="142" mtype="A FM" cost="149.85">BLMFS5</model>
+  <model type="264" mtype="A" cost="112.387505">BLMFI</model>
+  <model type="325" mtype="A VAC" cost="140.2596">BLMFI</model>
+  <model type="382" mtype="A,B" cost="134.865">BLMX</model>
+  <model type="382" mtype="HF" cost="188.811">BLMX</model>
+  <model type="502" mtype="A" cost="185.814">BLMX</model>
+  <model type="502" mtype="A,B HF" cost="269.73">BLMX</model>
+  <model type="25" mtype="A" cost="53.946">BMS</model>
+  <model type="35" mtype="A" cost="53.946">BMS</model>
+  <model type="35" mtype="A EPI" cost="53.946">BMS</model>
+  <model type="35" mtype="A VAC" cost="53.946">BMS</model>
+  <model type="DL-100XY" mtype="MOTOR" cost="89.91">PLANAR</model>
+</models>
